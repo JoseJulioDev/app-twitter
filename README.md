@@ -1,3 +1,3 @@
 # app-twitter
 
-<img src="./images/print.png" alt="Print" />
+<img src="/images/print.png" alt="Print" />
